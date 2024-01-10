@@ -1,0 +1,83 @@
+[
+    {
+        "title":"Product Title",
+        "description":"Space for a small product description",
+        "price":36.99,
+        "productName":"Smart Tv",
+        "id":111
+    },
+    {
+        
+            "title":"Product Title",
+            "description":"Space for a small product description",
+            "price":36.99,
+            "productName":"Electronics",
+            "id":222
+        
+    },
+    {
+        
+            "title":"Product Title",
+            "description":"Space for a small product description",
+            "price":36.99,
+            "productName":"PC and Laptops",
+            "id":333
+        
+    },
+    {
+        
+        "title":"Product Title",
+        "description":"Space for a small product description",
+        "price":36.99,
+        "productName":"Digital  products",
+        "id":444
+    
+},
+{
+        
+    "title":"Product Title",
+    "description":"Space for a small product description",
+    "price":36.99,
+    "productName":"Smart Phone",
+    "id":555
+
+},
+{
+        
+    "title":"Product Title",
+    "description":"Space for a small product description",
+    "price":36.99,
+    "productName":"Laptop",
+    "id":666
+
+},
+{
+        
+    "title":"Product Title",
+    "description":"Space for a small product description",
+    "price":36.99,
+    "productName":"Mouse",
+    "id":777
+
+},
+{
+        
+    "title":"Product Title",
+    "description":"Space for a small product description",
+    "price":36.99,
+    "productName":"Book",
+    "id":888
+
+},
+{
+        
+    "title":"Product Title",
+    "description":"Space for a small product description",
+    "price":36.99,
+    "productName":"Glass",
+    "id":999
+
+}
+
+
+]
